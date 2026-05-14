@@ -7,7 +7,7 @@
 1. Baixe o repositório ou abra `index.html` diretamente no navegador
 2. Login Master:
    - **Usuário**: `pedromustafe`
-   - **Senha**: `SSES19F17!`
+   - **Senha**: `!`
 
 3. O sistema roda 100% offline (usa localStorage)
 
